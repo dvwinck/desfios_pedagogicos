@@ -4,7 +4,7 @@ Um sapo está preso num poço de **30 metros** de profundidade.
 
 Ele sobe **3 metros durante o dia**, mas à noite **escorrega 2 metros**.
 
-A cada **5 dias**, o sapo **fica mais cansado** e passa a subir **0,5 metro a menos por dia**, mantendo o mesmo escorregão noturno.
+A cada **5 dias**, o sapo **fica mais cansado** e passa a subir **0,2 metros a menos por dia**, e escorrega **0.1 metros a menos por dia**. 
 
 Quando chove (a cada **7 dias**), o poço enche **1 metro de água**, aproximando o sapo da borda — mas se o sapo ainda não saiu, na **noite seguinte à chuva** ele escorrega **0,5 metro a mais** devido à lama.
 
