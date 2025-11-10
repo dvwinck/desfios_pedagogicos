@@ -1,4 +1,4 @@
-### 🧩 Desafio 1 — O Poço das Ilusões
+# 🧩 Desafio 1 — O Poço das Ilusões
 
 Um sapo está preso num poço de **30 metros** de profundidade.
 
@@ -8,12 +8,17 @@ A cada **5 dias**, o sapo **fica mais cansado** e passa a subir **0,5 metro a me
 
 Quando chove (a cada **7 dias**), o poço enche **1 metro de água**, aproximando o sapo da borda — mas se o sapo ainda não saiu, na **noite seguinte à chuva** ele escorrega **0,5 metro a mais** devido à lama.
 
-Pergunta:
+
+
+## Pergunta:
+
 **Em quantos dias o sapo conseguirá sair do poço, considerando todas as variações acima?**
 
 ---
 
-#### 🎯 Dicas (para quem quiser explorar mais fundo)
+## Complementos
+
+### 🎯 Dicas (para quem quiser explorar mais fundo)
 
 1. Faça uma **tabela dia a dia** até perceber o **padrão** do progresso líquido.
 2. Observe que há **duas progressões sobrepostas**: o esforço (que decresce) e a água (que oscila ciclicamente).
@@ -21,7 +26,7 @@ Pergunta:
 
 ---
 
-#### 💡 Extensão (nível avançado)
+###💡 Extensão (nível avançado)
 
 Transforme o problema em uma **expressão algébrica ou algoritmo** que possa:
 
@@ -30,7 +35,7 @@ Transforme o problema em uma **expressão algébrica ou algoritmo** que possa:
 
 ---
 
-#### 🧠 Notas para o mentor (você)
+## 🧠 Notas para o mentor (você)
 
 Esse desafio estimula:
 
