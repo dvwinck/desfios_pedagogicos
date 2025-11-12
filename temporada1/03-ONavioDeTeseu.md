@@ -2,8 +2,6 @@
 # 🧩 Desafio 2 — O Paradoxo do Navio de Teseu  
 ## O Navio que Nunca Parou  
 
----
-
 ### 1. Contexto / História curta  
 
 O Oráculo fala:  
@@ -15,8 +13,6 @@ O Oráculo fala:
 >
 > Dize-me, aprendiz:  
 > quantas mudanças são necessárias para que algo deixe de ser o que é?”
-
----
 
 ### 2. Regras e Dados  
 
@@ -46,7 +42,6 @@ A cada substituição, uma **nova peça herdava a “função” da anterior** �
 > **Regra de Materialidade:**  
 > Se algo mantém o **conjunto físico original**, considera-se que preservou sua “substância”.
 
----
 
 ### 3. Pergunta principal  
 
@@ -55,7 +50,6 @@ A cada substituição, uma **nova peça herdava a “função” da anterior** �
 E mais:  
 > Seria possível criar uma regra matemática ou lógica que defina o ponto exato em que o navio “deixou de ser o mesmo”?
 
----
 
 ### 4. Dicas (Progressivas)
 
@@ -68,7 +62,6 @@ Tente representar em uma tabela a sequência de substituições e a continuidade
 **Dica 3 (Nível 3):**  
 O paradoxo só existe porque duas definições de identidade — *material* e *funcional* — não podem ser verdadeiras ao mesmo tempo sem gerar contradição.  
 
----
 
 > “O aprendiz que entende este paradoxo não apenas compreende o tempo —  
 > mas também o que é permanecer o mesmo enquanto tudo muda.”
