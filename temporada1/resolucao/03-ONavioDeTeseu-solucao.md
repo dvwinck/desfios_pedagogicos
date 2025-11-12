@@ -1,15 +1,9 @@
-```markdown
 # 🧩 Desafio 2 — O Paradoxo do Navio de Teseu  
 ## O Navio que Nunca Parou  
-
----
-
 
 ### 5. Propósito pedagógico (Para o Mentor)  
 
 Treinar o pensamento abstrato e a distinção entre diferentes critérios de identidade (material, funcional, histórica), além de introduzir o raciocínio lógico por invariantes — o que *permanece constante* apesar da mudança.
-
----
 
 ### 6. Resolução comentada  
 
@@ -44,23 +38,14 @@ Enquanto f(t) = 1 e m(t) > 0, ainda há ambiguidade.
 Quando m(t) = 0, I(t) depende unicamente da continuidade.  
 Nesse ponto, a identidade "salta" de uma definição para outra — uma espécie de descontinuidade lógica.  
 
----
-
 ### 7. Resposta final  
 
 Não há um único “verdadeiro” Navio de Teseu.  
 Há dois — cada um fiel a uma definição distinta de identidade.  
 A ruptura lógica ocorre no momento em que a última peça original é substituída.  
 
----
-
 ### 8. Extensões  
 
 1. E se as peças substituídas **voltassem ao mar aos poucos**, misturando-se novamente? Seria possível que, ao fim de 100 anos, houvesse **um terceiro navio** — com partes de ambos?  
 2. E se o navio tivesse **uma mente artificial** que armazenasse sua memória — ela seria o critério decisivo da identidade?  
 
----
-
-> “O aprendiz que entende este paradoxo não apenas compreende o tempo —  
-> mas também o que é permanecer o mesmo enquanto tudo muda.”
-```
