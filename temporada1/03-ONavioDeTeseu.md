@@ -1,5 +1,5 @@
 
-# 🧩 Desafio 2 — O Paradoxo do Navio de Teseu  
+# 🧩 Desafio 3 — O Paradoxo do Navio de Teseu  
 ## O Navio que Nunca Parou  
 
 ### 1. Contexto / História curta  
